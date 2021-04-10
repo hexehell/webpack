@@ -26,7 +26,9 @@
     "webpack": "^5.27.2",
     "webpack-cleanup-plugin": "^0.5.1",
     "webpack-cli": "^4.5.0",
-    "webpack-dev-server": "^3.11.2"
+    "webpack-dev-server": "^3.11.2",
+    "is-svg": "^4.3.1"
   },
-  "dependencies": {}
+  "dependencies": {
+  }
 }
